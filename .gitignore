@@ -1,0 +1,49 @@
+# .NET build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Build results
+*.dll
+*.exe
+*.app
+*.log
+
+# Others
+*.vspscc
+*.vssscc
+*.dbmdl
+*.pdb
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
